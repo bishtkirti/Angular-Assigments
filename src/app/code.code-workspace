@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../code"
+		},
+		{
+			"path": "../../../../FRP_RXJS_essentials/FRP_1"
+		},
+		{
+			"path": "../../../../FRP_RXJS_essentials/FRP_2"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
